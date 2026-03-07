@@ -1,0 +1,5 @@
+vytvoření repozitáře: git init
+stav změn: git status
+ukázat plnou historii: git log
+odeslání změn na GitHub: git push
+stažení aktuální verze: git pull

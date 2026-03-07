@@ -1,0 +1,1 @@
+operacni systemy, IPv4 classifier, programovani v C++, OOP, verzovaci systemy
