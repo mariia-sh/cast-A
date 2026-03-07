@@ -1,1 +1,2 @@
 operacni systemy, IPv4 classifier, programovani v C++, OOP, verzovaci systemy
++struktury v C++, podminky C++
