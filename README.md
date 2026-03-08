@@ -1,2 +1,2 @@
 Repozitar pro predmet SIVT
-Obsahuje temata ze seminare projekty, poznamky k Gitu
+Obsahuje temata ze semirmghnare, projekty, poznamky k Gitu
