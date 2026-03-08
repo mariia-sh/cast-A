@@ -5,4 +5,4 @@ commit c44fe52faf9a838505bf4d74836efdc20a9299fb
 
 3.je ukazatel na aktuální commit, na kterém pracuji
 
-4. Vrátí repozitář na vybraný commit a smaže všechny neuložené změny
+4. Vrátí repozitář na vybraný commit a smaže všechny neuložené změnyq
