@@ -3,3 +3,7 @@ stav změn: git status
 ukázat plnou historii: git log
 odeslání změn na GitHub: git push
 stažení aktuální verze: git pull
+
+git revert =Vytvoří nový commit, který zruší změny předchozího commitu.
+git reset = Posune historii repozitáře zpět na starší commit.
+Použila jsem git revert, protože zachovává historii commitů.
